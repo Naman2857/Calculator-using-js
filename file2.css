@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+.cont{
+    text-align: center;
+    /* margin-top: auto; */
+}
+.container{
+    /* margin-top: 20px; */
+    /* text-align: center; */
+    align-content: center;
+    margin: auto;
+    border: 2px;
+    border-style: solid;
+    flex-wrap: wrap;
+    display: inline-block;
+    padding: 12px;
+    border-radius: 20px;
+
+}
+input{
+    font-size: 35px;
+    background-color: rgb(106, 106, 106);
+    border: 5px;
+    width: auto;
+    border-style:solid;
+    border-radius: 15px;
+}
+table{
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(195, 199, 199);
+    width: 90px;
+    height: 70px;
+    border-radius: 15px;
+    font-size: 33px;
+    margin: 3px;
+}
+
+
+
